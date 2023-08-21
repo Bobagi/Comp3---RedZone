@@ -1,2 +1,2 @@
 # Red-Zone
- Game developed for Comp3 classes, to ilustrate the concepts of ...
+ Game developed for university classes, to ilustrate the concepts of semaphores and threads is operational systems
